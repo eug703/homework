@@ -4,4 +4,8 @@ color: purple;
 
 #main{
     background-color: lightgray;
+    height: 150px;
+    text-align: center;
+    font-size: 25px;
+
 }
